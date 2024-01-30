@@ -1,0 +1,104 @@
+1 salih atalay
+1 halil hulki aydin
+1 nuri bayam
+1 mustafa sabri baysan
+1 necmeddin bilgin
+1 kadri oktay
+2 halil hulki aydin
+2 mahmut soydan
+3 halil hulki aydin
+3 mahmut soydan
+4 halil hulki aydin
+4 mahmut soydan
+5 halil hulki aydin
+5 nakiddin bekmen
+5 mehmet ali kurtoglu
+5 ismail mustak mayakon
+5 mahmut soydan
+5 sevki susoy
+6 halil hulki aydin
+6 nakiddin bekmen
+6 sevket dag
+6 ali esen
+6 sefik ozdemir
+7 sevket dag
+7 ali esen
+7 memet emin kiliccioglu
+7 saffet tuncay
+7 behcet turkay
+8 etem izzet benice
+8 ali esen
+8 lutfi yavuz
+8 sabri celiktug
+9 abdulbaki erden
+9 mehmet daim sualp
+9 sefik turkdogan
+9 cemil yardim
+10 mehmet suat beduk
+10 abdulbaki erden
+10 mehmet veysi oran
+10 mehmet daim sualp
+11 mehmet suat beduk
+11 abdulbaki erden
+11 mehmet veysi oran
+11 mehmet daim sualp
+11 fikri sendur
+12 ahmet cevdet aydin
+12 mehmet adil yasa
+12 sureyya oner
+12 hayrettin ozgen
+13 abdulhalim aras
+13 misbah ongan
+13 huseyin husnu oran
+13 mehmet adil yasa
+14 mehmet nebil oktay
+14 selahattin oran
+14 mehmet adil yasa
+14 zeki celiker
+15 idris arikan
+15 abdulbaki carti
+15 mehmet nebil oktay
+15 abdulkerim zilan
+16 abdulkadir kaya
+16 mehmet nebil oktay
+16 abdulkerim zilan
+16 zeki celiker
+17 aydin baran
+17 mehmet abdurrazak ceylan
+17 nejdet naci mimaroglu
+17 riza tekin
+18 idris arikan
+18 kemal birlik
+18 mehmet abdurrazak ceylan
+18 kudbettin hamidi
+18 zeki celiker
+19 zubeyir aydar
+19 naif gunes
+19 mehmet erdal koyuncu
+20 mehmet emin aydin
+20 ahmet nurettin aydin
+20 nizamettin sevgili
+21 ahmet nurettin aydin
+21 nizamettin sevgili
+21 takiddin yarayan
+22 memet fadil akgunduz
+22 ekrem bilek
+22 recep tayyip erdogan
+22 oner ergenc
+22 mervan gul
+22 oner gulyesil
+23 afif demirkiran
+23 memet yilmaz helvacioglu
+23 osman ozcelik
+24 afif demirkiran
+24 gultan kisanak
+24 osman oren
+25 yasin aktay
+25 hatice kocaman
+25 kadri yildirim
+26 yasin aktay
+26 besime konca
+26 kadri yildirim
+27 meral danis bestas
+27 sidik tas
+27 osman oren

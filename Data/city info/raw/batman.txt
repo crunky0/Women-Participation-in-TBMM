@@ -1,0 +1,36 @@
+19 mehmet adnan ekmen
+19 nizamettin toguc
+19 abdulkerim zilan
+20 alaattin sever aydin
+20 ataullah hamidi
+20 musa okcu
+20 faris ozdemir
+21 alaattin sever aydin
+21 ataullah hamidi
+21 faris ozdemir
+21 burhan isen
+22 afif demirkiran
+22 mehmet nezir nasiroglu
+22 memet ali sucin
+22 ahmet inal
+23 ayla akat ata
+23 mehmet emin ekmen
+23 bengi yildiz
+23 ahmet inal
+24 ayla akat ata
+24 bengi yildiz
+24 ziver ozdemir
+24 mehmet simsek
+25 ayse acar basaran
+25 ali atalan
+25 saadet becerekli
+25 ziver ozdemir
+26 ayse acar basaran
+26 mehmet ali aslan
+26 saadet becerekli
+26 ataullah hamidi
+27 ayse acar basaran
+27 mehmet rustu tiryaki
+27 feleknas uca
+27 ziver ozdemir
+27 necdet ipekyuz

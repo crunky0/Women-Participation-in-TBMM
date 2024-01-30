@@ -1,0 +1,118 @@
+1 ismail remzi berkun
+1 ibrahim demiralay
+1 mehmet tahir kucur
+1 cemal mersinli
+1 mehmet nadir suldur
+1 husnu ozdamar
+2 ibrahim demiralay
+2 ahmet mukerrem karaagac
+2 husnu ozdamar
+3 ibrahim demiralay
+3 mehmet riza dincay
+3 ahmet mukerrem karaagac
+3 husnu ozdamar
+4 ibrahim demiralay
+4 ahmet mukerrem karaagac
+4 kemal turan
+4 husnu ozdamar
+5 ibrahim demiralay
+5 ahmet mukerrem karaagac
+5 kemal turan
+5 husnu ozdamar
+6 ibrahim demiralay
+6 ahmet mukerrem karaagac
+6 kemal turan
+6 husnu ozdamar
+6 a.remzi unlu
+7 kazim aydar
+7 ahmet mukerrem karaagac
+7 kemal turan
+7 mehmet cemil tuzemen
+7 husnu ozdamar
+8 kazim aydar
+8 rifat gullu
+8 mehmet sait koksal
+8 kemal turan
+8 mehmet sevki yalvac
+9 ahmet irfan aksu
+9 mehmet sait bilgic
+9 ahmet kemalettin demiralay
+9 hasan tahsin tola
+9 mehmet resit turgut
+10 ahmet irfan aksu
+10 mehmet sait bilgic
+10 ahmet kemalettin demiralay
+10 hasan tahsin tola
+10 zuhtu hilmi velibese
+11 mehmet sait bilgic
+11 ahmet kemalettin demiralay
+11 ali latifaoglu
+11 ahmet hamdi ongun
+11 mehmet tevfik tigli
+12 ali ihsan balim
+12 lokman basaran
+12 mehmet sadettin bilgic
+12 mustafa gulcugil
+13 ahmet irfan aksu
+13 hasan tahsin argun
+13 ali ihsan balim
+13 suleyman sami demirel
+14 husameddin akmumcu
+14 ali ihsan balim
+14 suleyman sami demirel
+14 yusuf uysal
+15 ali ihsan balim
+15 mustafa cesur
+15 suleyman sami demirel
+15 yusuf uysal
+16 suleyman sami demirel
+16 yusuf uysal
+16 huseyin sukru ozsut
+16 yakup ustun
+17 osman metin ataman
+17 fatma mihriban erden
+17 mustafa kemal togay
+17 ibrahim fevzi yaman
+18 suleyman sami demirel
+18 abdullah aykon dogan
+18 ertekin duruturk
+18 ibrahim gurdal
+19 suleyman sami demirel
+19 abdullah aykon dogan
+19 ertekin duruturk
+19 mustafa fikri cobaner
+20 omer bilgin
+20 abdullah aykon dogan
+20 mustafa koylu
+20 erkan mumcu
+20 halil yildiz
+21 osman gazi aksoy
+21 ramazan gul
+21 erkan mumcu
+21 mustafa zorlu
+22 mehmet sait armagan
+22 mehmet emin murat bilgic
+22 mevlut coskuner
+22 erkan mumcu
+22 recep ozel
+23 sureyya sadi bilgic
+23 mevlut coskuner
+23 mehmet sait dilek
+23 suleyman nevzat korkmaz
+23 haydar kemal kurt
+24 sureyya sadi bilgic
+24 suleyman nevzat korkmaz
+24 ali haydar oner
+24 recep ozel
+25 irfan bakir
+25 sureyya sadi bilgic
+25 nuri okutan
+25 recep ozel
+26 irfan bakir
+26 sureyya sadi bilgic
+26 nuri okutan
+26 said yuce
+27 sureyya sadi bilgic
+27 aylin cesur
+27 mehmet ugur gokgoz
+27 recep ozel

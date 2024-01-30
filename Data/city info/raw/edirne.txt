@@ -1,0 +1,116 @@
+1 mehmet seref aykut
+1 cafer tayyar egilmez
+1 faik kaltakkiran
+1 kazim karabekir
+1 mustafa ismet inonu
+2 huseyin rifki bey
+2 cafer tayyar egilmez
+2 faik kaltakkiran
+3 zeki mesut alsan
+3 faik kaltakkiran
+3 mehmet sakir kesebir
+3 hasan hayri tan
+4 mehmet seref aykut
+4 faik kaltakkiran
+4 mehmet sakir kesebir
+4 hasan hayri tan
+5 mehmet seref aykut
+5 mecdi boysan
+5 faik kaltakkiran
+5 fatma memik
+6 mehmet seref aykut
+6 fuat balkan
+6 temel nucumi goksel
+6 faik kaltakkiran
+6 fatma memik
+6 osman sahinbas
+7 mehmet edip agaogullari
+7 fuat balkan
+7 ekrem demiray
+7 mahmut nedim gunduzalp
+7 fatma memik
+8 mehmet edip agaogullari
+8 fethi erimcag
+8 mahmut nedim gunduzalp
+8 mehmet oktem
+8 bahattin ogutmen
+9 arif altunalmaz
+9 mehmet enginun
+9 ahmet celalettin koprulu
+9 rukneddin nasuhioglu
+9 hasan osma
+10 mehmet enginun
+10 ahmet celalettin koprulu
+10 hasan muhtar maksutoglu
+10 rukneddin nasuhioglu
+10 sebahattin parsoy
+10 kemal yasinkilic
+11 rasim rasih gurkan
+11 nurittin manyas
+11 rukneddin nasuhioglu
+11 kadrettin oguzalici
+11 sebahattin parsoy
+11 ahmet mukerrem sarol
+12 talat asal
+12 suleyman fitri bilgen
+12 mehmet ilhami ertem
+12 fahir necmettin giritlioglu
+12 nazmi ozogul
+13 ahmet bilgin
+13 mehmet ilhami ertem
+13 turkan tacyildiz seckin
+13 nazmi ozogul
+14 mehmet ilhami ertem
+14 veli gulkan
+14 mustafa harmancioglu
+14 mehmet cevat sayin
+15 mehmet ilhami ertem
+15 veli gulkan
+15 ilhan isik
+15 mehmet cevat sayin
+16 mustafa bulut
+16 mehmet ilhami ertem
+16 cavittin yenal
+16 suleyman sabri oznal
+16 ahmet inceoglu
+17 turkan turgut arikan
+17 seyit husamettin konuksever
+17 muhittin yildirim
+17 ismail ugdul
+18 mehmet fuat ercetin
+18 erdal kalkan
+18 ismail ugdul
+18 sener isleten
+19 evren bulut
+19 hasan basri eler
+19 serif ercan
+19 erdal kesebir
+20 umran akkan
+20 evren bulut
+20 erdal kesebir
+20 mustafa ilimen
+21 evren bulut
+21 ali ahmet erturk
+21 mustafa ilimen
+21 sadan simsek
+22 ali ayag
+22 necdet budak
+22 nejat gencan
+22 rasim cakir
+23 necdet budak
+23 bilgin pacariz
+23 cemaleddin uslu
+23 rasim cakir
+24 kemal degirmendereli
+24 recep gurkan
+24 mehmet muezzinoglu
+25 erdin bircan
+25 semsettin emir
+25 okan gaytancioglu
+26 erdin bircan
+26 okan gaytancioglu
+26 rafet sezen
+27 fatma aksal
+27 erdin bircan
+27 okan gaytancioglu
+27 orhan cakirlar

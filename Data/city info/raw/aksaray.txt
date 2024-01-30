@@ -1,0 +1,42 @@
+2 besim atalay
+2 mustafa vehbi corakci
+2 mehmet neset ozercan
+3 besim atalay
+3 kazim gurel
+3 mehmet neset ozercan
+4 ali riza aribas
+4 besim atalay
+4 ahmet sureyya orgeevren
+4 mehmet yasar ozey
+19 halil demir
+19 ismet gur
+19 mahmut ozturk
+20 mehmet altinsoy
+20 nevzat kose
+20 sadi somuncuoglu
+20 murtaza ozkanli
+21 murat akin
+21 kursat eser
+21 sadi somuncuoglu
+21 ramazan toprak
+22 ali riza alaboyun
+22 ruhi acikgoz
+22 ramazan toprak
+22 ahmet yasar
+23 ali riza alaboyun
+23 ruhi acikgoz
+23 osman ertugrul
+23 ilknur inceoz
+24 ali riza alaboyun
+24 ruhi acikgoz
+24 ilknur inceoz
+25 nevzat palta
+25 turan yaldir
+25 ilknur inceoz
+26 cengiz aydogdu
+26 mustafa serdengecti
+26 ilknur inceoz
+27 cengiz aydogdu
+27 ayhan erel
+27 ramazan kasli
+27 ilknur inceoz

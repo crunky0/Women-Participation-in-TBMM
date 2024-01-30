@@ -1,0 +1,52 @@
+11 mehmet necmettin onder
+11 hasan hayati ulkun
+11 zihni uner
+11 tahir munip urguplu
+12 halit fikret aka
+12 ramazan nail demirsoy
+12 ali baran numanoglu
+13 ibrahim ethem boz
+13 selahattin esatoglu
+13 ali baran numanoglu
+14 husamettin baser
+14 selahattin esatoglu
+14 ahmet esat kiratlioglu
+15 mehmet sabri dortkol
+15 mehmet zeki tekiner
+15 salih ragip uner
+16 ibrahim ethem boz
+16 ahmet esat kiratlioglu
+16 yasar kemal yuksekli
+17 ali babaoglu
+17 faruk dirik
+17 haci turan ozturk
+18 ali babaoglu
+18 ahmet esat kiratlioglu
+18 ahmet cemal seymen
+19 mehmet elkatmis
+19 ahmet esat kiratlioglu
+19 osman seyfi
+20 abdulkadir bas
+20 mehmet elkatmis
+20 ahmet esat kiratlioglu
+21 mehmet elkatmis
+21 mukremin taskin
+21 ismail cevik
+22 mehmet elkatmis
+22 ritvan koybasi
+22 osman seyfi
+23 mahmut dede
+23 ahmet erdal feralan
+23 ritvan koybasi
+24 ahmet erdal feralan
+24 murat gokturk
+24 ebubekir gizligider
+25 mustafa acikgoz
+25 murat gokturk
+25 mehmet varol
+26 mustafa acikgoz
+26 murat gokturk
+26 ebubekir gizligider
+27 mustafa acikgoz
+27 yucel menekse
+27 faruk sariaslan

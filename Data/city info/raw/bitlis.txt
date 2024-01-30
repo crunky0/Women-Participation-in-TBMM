@@ -1,0 +1,74 @@
+1 resul sitki bey
+1 sadullah fevzi eren
+1 yusuf ziya kocoglu
+1 huseyin husnu orakcioglu
+1 dervis sefunc
+1 arif hikmet ozdemir
+1 saban oztekin
+2 muhittin bey
+2 resul sitki bey
+3 muhittin bey
+3 ilyas sami mus
+3 muhittin temocin
+6 tevfik temelli
+6 ahmet sureyya orgeevren
+7 muhtar ertan
+7 ahmet bulent osma
+8 muhtar ertan
+8 mehmet ziya gebologlu
+8 arif hikmet ozdemir
+9 nusrettin barut
+9 muhtar ertan
+9 selahattin inan
+10 nusrettin barut
+10 selahattin inan
+11 nusrettin barut
+11 ahmet rifat bingol
+11 selahattin inan
+12 ahmet nafiz giray
+12 mustak okumus
+13 cevdet gebologlu
+13 zarife kocak
+14 kenan mumtaz akisik
+14 abidin inan gaydali
+15 abidin inan gaydali
+15 muhyettin mutlu
+16 abidin inan gaydali
+16 muhyettin mutlu
+17 faik tarimcioglu
+17 rafet ibrahimoglu
+17 kamran inan
+18 muhyettin mutlu
+18 faik tarimcioglu
+18 kamran inan
+19 zeki ergezen
+19 edip safder gaydali
+19 kamran inan
+20 zeki ergezen
+20 edip safder gaydali
+20 abdulhaluk mutlu
+20 kamran inan
+21 zeki ergezen
+21 edip safder gaydali
+21 ibrahim halil oral
+21 yahya cevik
+22 abdurrahim aksoy
+22 zeki ergezen
+22 edip safder gaydali
+22 vahit kiler
+23 zeki ergezen
+23 mehmet nezir karabas
+23 vahit kiler
+23 cemal tasar
+24 vedat demiroz
+24 vahit kiler
+24 husamettin zenderlioglu
+25 vedat demiroz
+25 mahmut celadet gaydali
+25 mizgin irgat
+26 vedat demiroz
+26 mahmut celadet gaydali
+26 mizgin irgat
+27 mahmut celadet gaydali
+27 vahit kiler
+27 cemal tasar

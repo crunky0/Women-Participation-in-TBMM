@@ -1,0 +1,65 @@
+6 feridun fikri dusunsel
+6 necmeddin sahir silan
+7 hasan tahsin banguoglu
+7 feridun fikri dusunsel
+8 hasan tahsin banguoglu
+8 feridun fikri dusunsel
+9 feridun fikri dusunsel
+9 mustafa nuri okcuoglu
+10 necati aras
+10 mehmet sait goker
+10 ekrem yildiz
+11 mehmet sait goker
+11 mustafa nuri okcuoglu
+11 ekrem yildiz
+12 mehmet siddik aydar
+12 halit riza unal
+13 mehmet emin gundogdu
+13 cemal yavuz
+14 mehmet siddik aydar
+14 mehmet bilgin
+15 abdullah bazencir
+15 hasan celalettin ezman
+16 hasan celalettin ezman
+16 mehmet sait goker
+17 hakki artukarslan
+17 mehmet ali doguslu
+17 mahmut sonmez
+18 haydar baylaz
+18 ilhami binici
+18 mehmet ali doguslu
+19 kazim ataoglu
+19 haydar baylaz
+19 husamettin korkutata
+20 kazim ataoglu
+20 husamettin korkutata
+20 mahmut sonmez
+21 mahfuz guler
+21 husamettin korkutata
+21 necati yondar
+22 abdurrahman anik
+22 feyzi berdibek
+22 mahfuz guler
+23 kazim ataoglu
+23 yusuf coskun
+23 cevdet yilmaz
+24 idris baluken
+24 esref tas
+24 cevdet yilmaz
+25 sebnem elgormus
+25 enver fehmioglu
+25 hisyar ozsoy
+26 enver fehmioglu
+26 cevdet yilmaz
+26 hisyar ozsoy
+27 erdal aydemir
+27 feyzi berdibek
+27 cevdet yilmaz
+1 ali haydar bey
+1 mehmet celaleddin b.
+1 ibrahim fikri ergun
+1 fikri faik gungoren
+1 ali vasif tellibeyzade
+1 hamdi yilmaz
+2 ali haydar bey
+2 muhittin temocin

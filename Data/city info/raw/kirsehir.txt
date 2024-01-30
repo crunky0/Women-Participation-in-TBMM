@@ -1,0 +1,92 @@
+1 yahya galip kargi
+1 bekir kocaagazade
+1 ahmed mufid kurutluoglu
+1 mehmet sadik sevtekin
+1 ali cevdet seckin
+1 riza silsupur
+1 cemalettin celebiogullari
+2 mahbup bey
+2 ali riza benliagazade
+2 mehmed refik kakmaci
+2 yahya galip kargi
+2 lutfi mufit ozdes
+3 hazim borekci
+3 yahya galip kargi
+3 lutfi mufit ozdes
+4 hazim borekci
+4 serdar tanrisever
+4 lutfi mufit ozdes
+5 hazim borekci
+5 ali esen
+5 mehmet seyfeli
+5 lutfi mufit ozdes
+6 hazim borekci
+6 mehmet seyfeli
+6 yusuf somer
+6 izzet ozkan
+6 hasan huseyin ulku
+7 faik seler
+7 ibrahim turan
+7 sevket turgut
+7 fuad necati cobanoglu
+8 ismail hakki baltacioglu
+8 mehmet nihat erdem
+8 kemal sahir kurutluoglu
+8 sevket turgut
+9 haci osman bolukbasi
+9 haci halil sezai erkut
+9 elvan kaman
+9 rifat ozdes
+10 mulla osman alisiroglu
+10 haci osman bolukbasi
+10 ahmet bilgin
+10 haci mehmet mahmutoglu
+10 tahir taser
+11 haci osman bolukbasi
+11 osman canatan
+11 fazil yalcin
+11 hayri copuroglu
+12 ahmet bilgin
+12 memduh erdemir
+12 halil ozmen
+13 memduh erdemir
+13 mehmet guver
+13 suleyman onan
+14 mustafa aksoy
+14 yildirim cevat eroglu
+14 mustafa kemal gunes
+15 mustafa aksoy
+15 memduh erdemir
+15 sait saylam
+16 mustafa esrefoglu
+16 dogan gunesli
+16 kilic mehmet sorgucu
+17 mehmet budak
+17 ismet ergul
+17 tevfik gunes
+18 sevki gogusger
+18 gokhan maras
+18 kazim caglayan
+19 coskun gokalp
+19 sabri yavuz
+19 hilmi yukselen
+20 mehmet ali altin
+20 omer demir
+20 cafer gunes
+21 mustafa haykir
+21 ramazan mirzaoglu
+21 fikret tecer
+22 mikail arslan
+22 huseyin bayindir
+22 haci turan
+23 mikail arslan
+23 abdullah caliskan
+23 metin cobanoglu
+24 muzaffer aslan
+24 abdullah caliskan
+25 cemil yildirim turk
+25 salih cetinkaya
+26 mikail arslan
+26 salih cetinkaya
+27 mustafa kendirli
+27 metin ilhan

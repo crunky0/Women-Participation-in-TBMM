@@ -1,0 +1,182 @@
+6 bekir sitki kunt
+6 abdullah mursaloglu
+6 ahmet hamdi selcuk
+6 tacirli mehmet tecirli
+6 abdulgani turkmen
+7 ali selhum devrim
+7 eyup durukan
+7 hasene ilgaz
+7 bekir sitki kunt
+7 ahmet hamdi selcuk
+7 abdulgani turkmen
+8 abdullah cilli
+8 eyup durukan
+8 hasan mursaloglu
+8 abdulgani turkmen
+8 suphi bedir uluc
+8 rasim yurdman
+9 abdullah cilli
+9 abdurrahman melek
+9 tayfur ata sokmen
+9 mehmet celalettin siren
+9 hasan resit tankut
+9 mahmut cavit yurtman
+10 a.feyzi atahan
+10 ali muhsin bereketoglu
+10 abdullah cilli
+10 ahmet mithat kuseyrioglu
+10 semsiddin mursaloglu
+10 celal ramazanoglu
+10 sevket saricali
+10 sekip inal
+11 ihsan cemal ada
+11 ahsan aral
+11 rifat bahadir
+11 izzettin cilli
+11 ali selhum devrim
+11 ahmet sirri hocaoglu
+11 inayet sevki mursaloglu
+11 omer fevzi resa
+11 hasan ikiz
+12 bahri bahadir
+12 ali muhsin bereketoglu
+12 abdullah cilli
+12 ahmet sirri hocaoglu
+12 inayet sevki mursaloglu
+12 huseyin saki zorlu
+12 sekip inal
+13 sabahettin adali
+13 abdullah cilli
+13 yahya kanbolat
+13 talat koseoglu
+13 budak mursaloglu
+13 resat mursaloglu
+13 semsiddin mursaloglu
+13 husnu ozkan
+14 halil akgol
+14 mehmet aslan
+14 abdullah cilli
+14 talat koseoglu
+14 mehmet sait resa
+14 ali yilmaz
+14 husnu ozkan
+15 sabahettin adali
+15 abdullah cilli
+15 mehmet sait resa
+15 mehmet sonmez
+15 malik yilman
+15 ali yilmaz
+15 sabri ince
+16 sabahettin adali
+16 haydar demirtas
+16 abdullah oner miski
+16 mehmet sait resa
+16 malik yilman
+16 ali yilmaz
+16 mevlut onal
+16 sabri ozturk
+17 tevfik bilal
+17 abdurrahman demirtas
+17 ihsan gurbuz
+17 kamran karaman
+17 hamit melek
+17 mustafa murat sokmenoglu
+17 mustafa celebi
+18 mustafa kemal duduoglu
+18 mehmet donen
+18 mehmet vehbi dincerler
+18 turhan hirfanoglu
+18 kamran karaman
+18 abdullah oner miski
+18 memet purdeloglu
+18 mustafa murat sokmenoglu
+18 ali uyar
+19 mehmet donen
+19 abdullah kinali
+19 onur cetin kumbaracibasi
+19 nihad matkap
+19 bestami teke
+19 nurettin tokdemir
+19 ali uyar
+19 fuat cay
+20 abdulkadir akgol
+20 ali gunay
+20 suleyman metin kalkan
+20 nihad matkap
+20 levent mistikoglu
+20 omer atila sav
+20 mehmet silay
+20 ali uyar
+20 huseyin yayla
+20 fuat cay
+21 namik kemal atahan
+21 hakki oguz aykut
+21 mehmet donen
+21 mustafa gecer
+21 ali gunay
+21 suleyman metin kalkan
+21 levent mistikoglu
+21 mehmet nuri tarhan
+21 suleyman turan cirkin
+21 mehmet sandir
+22 zuheyir amber
+22 inal batu
+22 gokhan durgun
+22 mehmet eraslan
+22 sadullah ergin
+22 fuat gecen
+22 mehmet soydan
+22 ismail soylu
+22 abdulaziz yazar
+22 fuat cay
+23 gokhan durgun
+23 sadullah ergin
+23 abdulhadi kahya
+23 orhan karasayar
+23 abdulaziz yazar
+23 izzettin yilmaz
+23 fuat cay
+23 suleyman turan cirkin
+23 mustafa ozturk
+23 fevzi sanverdi
+24 hasan akgol
+24 mevlut dudu
+24 mehmet ali ediboglu
+24 sadullah ergin
+24 refik eryilmaz
+24 orhan karasayar
+24 haci bayram turkoglu
+24 adem yesildal
+24 adnan sefik cirkin
+24 mehmet onturk
+25 mehmet algan
+25 mevlut dudu
+25 birol ertem
+25 orhan karasayar
+25 serkan topal
+25 haci bayram turkoglu
+25 hilmi yarayici
+25 adem yesildal
+25 adnan sefik cirkin
+25 mehmet onturk
+26 mehmet necmettin ahrazoglu
+26 mevlut dudu
+26 birol ertem
+26 orhan karasayar
+26 serkan topal
+26 haci bayram turkoglu
+26 hilmi yarayici
+26 adem yesildal
+26 mehmet onturk
+26 fevzi sanverdi
+27 mehmet guzelmansur
+27 lutfi kasikci
+27 baris atay mengulluoglu
+27 ismet tokdemir
+27 serkan topal
+27 haci bayram turkoglu
+27 huseyin yayman
+27 abdulkadir ozel
+27 sabahat ozgursoy
+27 suzan sahin
+27 huseyin sanverdi

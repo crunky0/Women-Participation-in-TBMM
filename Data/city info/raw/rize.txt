@@ -1,0 +1,116 @@
+2 rauf bey
+2 hasan cavit belul
+2 ahmet fuat bulca
+2 ekrem rize
+2 ali riza zirh
+2 esat ozoguz
+3 akif akyuz
+3 hasan cavit belul
+3 ahmet fuat bulca
+3 mehmet atif tuzun
+3 ali riza zirh
+3 esat ozoguz
+4 akif akyuz
+4 hasan cavit belul
+4 ahmet fuat bulca
+4 mehmet atif tuzun
+4 ali riza zirh
+4 esat ozoguz
+6 hasan cavit belul
+6 saim ali dilemre
+6 mehmet raif dinc
+6 kemalettin kamu
+6 fuat sirmen
+6 ali riza zirh
+7 tahsin bekir balta
+7 hasan cavit belul
+7 saim ali dilemre
+7 kemalettin kamu
+7 fuat sirmen
+7 ali riza zirh
+8 tahsin bekir balta
+8 hasan cavit belul
+8 saim ali dilemre
+8 ahmet fahri kurtulus
+8 fuat sirmen
+8 ali riza zirh
+9 yusuf izzet akcal
+9 mehmet kemal balta
+9 osman kavrakoglu
+9 mehmet fahri mete
+9 ahmet morgil
+9 mehmed zeki sporel
+10 huseyin agun
+10 yusuf izzet akcal
+10 mehmet kemal balta
+10 osman kavrakoglu
+10 mehmet fahri mete
+10 ahmet morgil
+11 huseyin agun
+11 yusuf izzet akcal
+11 osman kavrakoglu
+11 mehmet fahri mete
+11 ahmet morgil
+11 muzaffer onal
+12 erol yilmaz akcal
+12 arif hikmet guner
+12 fuat sirmen
+12 cevat yalcin
+13 erol yilmaz akcal
+13 mustafa mazhar basa
+13 ismail sarigoz
+13 cevat yalcin
+14 erol yilmaz akcal
+14 hasan basri albayrak
+14 sami ugur kumbasar
+14 salih zeki koseoglu
+15 sami ugur kumbasar
+15 sudi resat saruhan
+15 cevat yalcin
+15 osman yilmazkaraosmanoglu
+16 yusuf izzet akcal
+16 yilmaz balta
+16 sami ugur kumbasar
+16 tuncay mataraci
+17 arif sevket bilgin
+17 turgut halit kunter
+17 fehmi memisoglu
+17 ahmet mesut yilmaz
+18 mustafa nazikoglu
+18 mustafa parlak
+18 sadan tuzcu
+18 ahmet mesut yilmaz
+19 ahmet kabil
+19 mustafa parlak
+19 ahmet mesut yilmaz
+20 huseyin avni kabaoglu
+20 ahmet kabil
+20 sevki yilmaz
+20 ahmet mesut yilmaz
+21 mehmet bekaroglu
+21 ahmet kabil
+21 ahmet mesut yilmaz
+22 abdulkadir kart
+22 imdat sutluoglu
+22 ilyas cakir
+23 bayram ali bayramoglu
+23 ahmet mesut yilmaz
+23 lutfi cirakoglu
+24 nusret bayraktar
+24 hasan karal
+24 hayati yazici
+25 hikmet ayar
+25 osman askin bak
+25 hasan karal
+26 hikmet ayar
+26 osman askin bak
+26 hasan karal
+27 muhammed avci
+27 osman askin bak
+27 hayati yazici
+1 ziya hursit bey
+1 ibrahim sevki bey
+1 zeynel abidin atak
+1 mehmet necati memisoglu
+1 osman nuri ozgen
+1 esat ozoguz

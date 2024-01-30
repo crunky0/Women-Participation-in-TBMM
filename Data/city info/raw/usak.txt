@@ -1,0 +1,56 @@
+10 yusuf aysal
+10 orhan dengiz
+10 ismail hakki gedik
+10 hacim yilmaz
+11 ali riza akbiyikoglu
+11 riza salici
+11 avni ural
+11 adnan calikoglu
+12 ali riza akbiyikoglu
+12 ibrahim bulanalp
+12 ahmet tahtakilic
+13 ali riza akbiyikoglu
+13 orhan dengiz
+13 mehmet fahri ugrasizoglu
+14 orhan dengiz
+14 adil turan
+14 mehmet fahri ugrasizoglu
+15 orhan dengiz
+15 ahmet yilmaz
+15 ahmet kadir ozpak
+16 ismail aydin
+16 mehmet selahattin yuksel
+16 galip cetin
+17 yusuf demir
+17 mumtaz guler
+17 mehmet topac
+18 ahmet avci
+18 mumtaz guler
+18 mehmet topac
+19 fahri gunduz
+19 ender karagul
+19 ural koklu
+20 yildirim akturk
+20 hasan karakaya
+20 mehmet yasar unal
+21 armagan yilmaz
+21 hasan ozgobek
+21 mehmet yasar unal
+22 osman coskunoglu
+22 alim tunc
+22 ahmet caglayan
+23 osman coskunoglu
+23 nuri uslu
+23 mustafa cetin
+24 dilek akagun
+24 mehmet altay
+24 ismail gunes
+25 mehmet altay
+25 ozkan yalim
+25 durmus yilmaz
+26 mehmet altay
+26 alim tunc
+26 ozkan yalim
+27 mehmet altay
+27 ismail gunes
+27 ozkan yalim

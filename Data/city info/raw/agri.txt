@@ -1,0 +1,103 @@
+6 halit bayrak
+6 mehmet kemal dogan
+6 husamettin kural
+6 aziz ihsan tav
+7 halit bayrak
+7 rifki refik pasin
+7 ahmet husamettin tugac
+8 mustak aktan
+8 ahmet alpaslan
+8 halit bayrak
+9 kasim kufrevi
+9 huseyin yardimci
+9 halis ozturk
+10 kasim kufrevi
+10 nimet sumer
+10 huseyin yardimci
+10 halis ozturk
+11 kasim kufrevi
+11 serafettin saracoglu
+11 huseyin yardimci
+11 selim yatagan
+11 halis ozturk
+12 nevzat gungor
+12 riza polat
+12 kerem ozcan
+13 abdulbari akdogan
+13 nevzat gungor
+13 kasim kufrevi
+14 abdulkerim bayazit
+14 nevzat gungor
+14 kasim kufrevi
+15 cemil erhan
+15 riza polat
+15 mir bahadin yardimci
+15 kerem sahin
+16 mikail aydemir
+16 riza polat
+16 kerem sahin
+16 ahmet hamdi sam
+17 hasan fecri alpaslan
+17 pasa sarioglu
+17 ibrahim tasdemir
+17 mehmet yasar
+18 hasan fecri alpaslan
+18 cezmi erat
+18 yasar eryilmaz
+18 mehmet yasar
+19 hasan fecri alpaslan
+19 mikail aydemir
+19 cemil erhan
+19 yasar eryilmaz
+20 mehmet siddik altay
+20 cemil erhan
+20 yasar eryilmaz
+20 celal esin
+20 mehmet ziyattin tokar
+21 yasar eryilmaz
+21 celal esin
+21 musa konyar
+21 nidai seven
+22 naci aslan
+22 cemal kaya
+22 mehmet kerim yildiz
+22 mehmet melik ozmen
+22 halil ozyolcu
+23 mehmet hanifi alir
+23 abdulkerim aydemir
+23 yasar eryilmaz
+23 cemal kaya
+23 fatma salman
+24 halil aksoy
+24 fatma salman
+24 mehmet kerim yildiz
+24 ekrem celebi
+25 dirayet dilan tasdemir
+25 leyla zana
+25 berdan ozturk
+25 mehmet emin ilhan
+26 cesim gokce
+26 dirayet dilan tasdemir
+26 leyla zana
+26 berdan ozturk
+27 abdullah koc
+27 dirayet dilan tasdemir
+27 ekrem celebi
+27 berdan ozturk
+1 suleyman sudi acarbay
+1 mehmet atif bayazit
+1 sevket bayazit
+1 refik saydam
+1 haci mehmed onay
+2 suleyman sudi acarbay
+2 mehmet sefik baydar
+3 mehmet sefik baydar
+3 halit bayrak
+3 aziz ihsan tav
+4 ubeydullah bey
+4 halit bayrak
+4 aziz ihsan tav
+5 ubeydullah bey
+5 halit bayrak
+5 husamettin kural
+5 aziz ihsan tav

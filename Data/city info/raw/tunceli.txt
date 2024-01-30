@@ -1,0 +1,55 @@
+6 sami erkman
+6 mithat yenel
+6 ali haydar oktem
+7 necmeddin sahir silan
+7 hasan ucoz
+8 necmeddin sahir silan
+8 mahmut tan
+9 hizir aydin
+9 hasan remzi kulu
+10 arslan bora
+10 bahri okaygun
+10 mehmet fethi ulku
+11 hizir aydin
+11 arslan bora
+11 mehmet fethi ulku
+12 vahap kisoglu
+12 mehmet fethi ulku
+13 kenan aral
+13 hasan unlu
+14 kenan aral
+14 huseyin yenipinar
+15 nihat saltik
+15 suleyman yildirim
+16 huseyin erkanli
+16 ali haydar veziroglu
+17 musa ates
+17 ali ridvan yildirim
+18 kamer genc
+18 orhan veli yildirim
+19 kamer genc
+19 vahdet sinan yerlikaya
+20 kamer genc
+20 orhan veli yildirim
+21 kamer genc
+21 bekir gundogan
+22 hasan guyuldar
+22 vahdet sinan yerlikaya
+23 kamer genc
+23 serafettin halis
+24 huseyin aygun
+24 kamer genc
+25 alican onlu
+25 edibe sahin
+26 gursel erol
+26 alican onlu
+27 alican onlu
+27 polat saroglu
+1 abdulhak tevfik gencturk
+1 hasan hayri kanko
+1 mustafa zeki saltuk
+1 ahmet ramiz tan
+1 diyab yildirim
+1 mustafa ozkuk
+2 feridun fikri dusunsel
+2 ahmet kulualp

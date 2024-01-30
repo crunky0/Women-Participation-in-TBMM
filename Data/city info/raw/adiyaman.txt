@@ -1,0 +1,78 @@
+11 vakkas sait agar
+11 abdulgani gursoy
+11 ali sefik san
+11 mehmet sirri turanli
+11 ali yasar
+12 mehmet arif atalay
+12 mahmut deniz
+12 ali avni turanli
+12 memet ozbay
+13 mehmet arif atalay
+13 mehmet nazim bayillioglu
+13 suleyman arif emre
+13 ali avni turanli
+14 mehmet zeki adiyaman
+14 mustafa kamil kirikoglu
+14 ali avni turanli
+14 yusuf ziya yilmaz
+15 halil agar
+15 kemal tabak
+15 ramazan yildirim
+15 abdurrahman unsal
+16 halil agar
+16 kemal tabak
+16 ramazan yildirim
+16 abdurrahman unsal
+17 mehmet arif atalay
+17 arif agaoglu
+17 mehmet deliceoglu
+17 ahmet sirri ozbek
+18 zeynal aslan
+18 arif agaoglu
+18 mehmet deliceoglu
+18 abdurrahman karaman
+19 mahmut kilinc
+19 celal kurkoglu
+19 kemal tabak
+19 abuzer tanriverdi
+20 mahmut bozkurt
+20 mahmut nedim bilgic
+20 ahmet dogan
+20 celal topkan
+20 ahmet celik
+21 mahmut bozkurt
+21 mahmut nedim bilgic
+21 dengir mir mehmet firat
+21 mahmut goksu
+21 hasari guler
+21 mehmet ozyol
+22 mahmut goksu
+22 sevket gursoy
+22 fehmi husrev kutlu
+22 mehmet ozyol
+22 ahmet faruk unsal
+23 ahmet aydin
+23 mehmet erdogan
+23 sevket gursoy
+23 fehmi husrev kutlu
+23 sevket kose
+24 ahmet aydin
+24 mehmet erdogan
+24 salih firat
+24 mehmet metiner
+24 muhammed murtaza yetis
+25 ahmet aydin
+25 adnan boynukara
+25 salih firat
+25 ibrahim halil firat
+25 behcet yildirim
+26 ahmet aydin
+26 adnan boynukara
+26 salih firat
+26 ibrahim halil firat
+26 behcet yildirim
+27 ahmet aydin
+27 ibrahim halil firat
+27 yakup tas
+27 muhammed fatih toprak
+27 abdurrahman tutdere

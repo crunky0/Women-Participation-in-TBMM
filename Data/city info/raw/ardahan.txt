@@ -1,0 +1,21 @@
+1 hilmi bey
+1 osman server ahiskaatabekogullari
+2 halit pasa
+2 talat sonmez
+2 tahsin uzer
+20 ismet atalay
+20 saffet kaya
+21 faruk demir
+21 saffet kaya
+22 kenan altun
+22 ensar ogut
+23 saffet kaya
+23 ensar ogut
+24 orhan atalay
+24 ensar ogut
+25 taskin aktas
+25 orhan atalay
+26 orhan atalay
+26 ozturk yilmaz
+27 orhan atalay
+27 ozturk yilmaz

@@ -1,0 +1,95 @@
+2 sukru naili gokberk
+2 fuat umay
+2 sevket odul
+3 mehmet nahit kerven
+3 fuat umay
+3 sevket odul
+4 mehmet nahit kerven
+4 fuat umay
+4 sevket odul
+5 zuhtu akin
+5 fuat umay
+5 sevket odul
+6 zuhtu akin
+6 burhaneddin denker
+6 hamdi kuleli
+6 fuat umay
+6 sevket odul
+7 zuhtu akin
+7 mehmet kemal dogan
+7 nafi atuf kansu
+7 fuat umay
+7 sevket odul
+8 zuhtu akin
+8 mehmet kemal dogan
+8 nafi atuf kansu
+8 fuat umay
+8 sevket odul
+9 sefik bakay
+9 mahmut erbil
+9 fikret filiz
+9 sitki pekkip
+9 faik ustun
+10 sefik bakay
+10 mehmet ali ceylan
+10 mahmut erbil
+10 fikret filiz
+10 husnu yaman
+11 sefik bakay
+11 mehmet ali ceylan
+11 sitki pekkip
+11 huseyin avni sakman
+11 ali dundar tekand
+11 husnu yaman
+12 abdurrahman altug
+12 mehmet aleettin eris
+12 fikret filiz
+12 hasan tahsin uzun
+13 mehmet atagun
+13 arif hikmet guner
+13 mehmet orhan turkkan
+13 hasan tahsin uzun
+14 beyti arda
+14 mehmet atagun
+14 hasan korkut
+14 feyzullah carikci
+15 tankut akalin
+15 mehmet atagun
+15 mehmet dedeoglu
+16 mehmet dedeoglu
+16 hasan korkut
+16 gunduz onat
+17 erol agagil
+17 sukru babacan
+17 cemal ozbilen
+18 gurcan ersin
+18 irfan gurpinar
+18 cemal ozbilen
+19 irfan gurpinar
+19 ahmet sezal ozbek
+19 cemal ozbilen
+20 irfan gurpinar
+20 necdet tekin
+20 ahmet sezal ozbek
+20 cemal ozbilen
+21 nural karagoz
+21 necdet tekin
+21 cemal ozbilen
+22 yavuz altinorak
+22 mehmet siyam kesimoglu
+22 ahmet gokhan saricam
+23 tansel baris
+23 turgut dibek
+23 ahmet gokhan saricam
+24 turgut dibek
+24 senol gursan
+24 mehmet siyam kesimoglu
+25 vecdi gundogdu
+25 hamdi irmak
+25 turabi kayan
+26 vecdi gundogdu
+26 turabi kayan
+26 selahattin minsolmaz
+27 vecdi gundogdu
+27 turabi kayan
+27 selahattin minsolmaz

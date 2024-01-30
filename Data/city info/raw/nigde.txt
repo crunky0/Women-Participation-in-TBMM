@@ -1,0 +1,135 @@
+1 mehmed ata atay
+1 zeynel abidin bayhan
+1 mustafa hilmi soydan
+1 mustafa soylu
+1 ahmet hakki pasa sutekin
+1 mustafa vehbi corakci
+2 mehmed ata atay
+2 halit mengi
+2 ebubekir hazim tepeyran
+2 ali galip yenen
+3 mehmed ata atay
+3 halit mengi
+3 mahmud faik soylu
+3 ali galip yenen
+4 halit mengi
+4 mahmud faik soylu
+4 ahmet vefik ulucay
+4 ali galip yenen
+5 abravaya marmarali
+5 halit mengi
+5 ali cavit oral
+5 mahmud faik soylu
+5 rasim ferit talay
+5 ahmet vefik ulucay
+5 kamil irdelp
+6 naim erem
+6 abravaya marmarali
+6 halit mengi
+6 ali cavit oral
+6 mahmud faik soylu
+6 rasim ferit talay
+6 ebubekir hazim tepeyran
+7 avram galanti bodrumlu
+7 rifat dolunay
+7 mehmet rifat gursoy
+7 halit mengi
+7 mahmud faik soylu
+7 rasim ferit talay
+7 ebubekir hazim tepeyran
+7 huseyin avni ulusoy
+8 ferit ecer
+8 mehmet rifat gursoy
+8 halit mengi
+8 mehmet vehbi saridal
+8 ibrahim refik soyer
+8 ahmet sukru suer
+8 huseyin avni ulusoy
+9 s. hadi aribas
+9 ahmet necip bilge
+9 ali sureyya dellaloglu
+9 asim doganay
+9 ferit ecer
+9 fahrettin kosgeroglu
+9 halil nuri yurdakul
+9 hasan huseyin ulku
+10 ali ulvi arikan
+10 mehmet sadettin ertur
+10 huseyin avni gokturk
+10 ahmet nuri kadioglu
+10 mehmet cavit kavurmacioglu
+10 hasan huseyin ulku
+10 hasan hayati ulkun
+10 zihni uner
+11 mehmet medeni berk
+11 asim eren
+11 mehmet rifat gursoy
+11 ali gurun
+11 ismail guven
+11 vedat mengi
+11 sefik refik soyer
+12 mehmet altinsoy
+12 asim eren
+12 ruhi soyer
+12 oguzdemir tuzun
+12 haydar ozalp
+13 mehmet altinsoy
+13 sammas yasar aribas
+13 ruhi soyer
+13 oguzdemir tuzun
+13 haydar ozalp
+14 huseyin avni kavurmacioglu
+14 mehmet nuri kodamanoglu
+14 mevlut mehmet ocakcioglu
+14 muzaffer naci cerezci
+14 haydar ozalp
+15 mehmet altinsoy
+15 sammas yasar aribas
+15 mehmet biyik
+15 huseyin avni kavurmacioglu
+15 azmi yavuzalp
+15 haydar ozalp
+16 yilmaz cemal bor
+16 burhan ecemis
+16 huseyin avni kavurmacioglu
+16 sadi somuncuoglu
+16 huseyin celik
+17 emin alpkaya
+17 akin gonen
+17 mustafa sabri guvenc
+17 birsel sonmez
+17 arif toprak
+17 haydar ozalp
+18 dogan baran
+18 rasit daldal
+18 birsel sonmez
+18 haydar ozalp
+18 mahmut ozturk
+19 ibrahim arisoy
+19 dogan baran
+19 rifat yuzbasioglu
+20 dogan baran
+20 akin gonen
+20 mehmet salih katircioglu
+20 ergun ozkan
+21 dogan baran
+21 eyup doganlar
+21 mukerrem levent
+22 orhan eraslan
+22 mahmut ugur cetin
+22 erdogan ozegen
+23 ismail goksel
+23 muharrem selamoglu
+23 mumin inan
+24 alpaslan kavaklioglu
+24 omer selvi
+24 dogan safak
+25 vedat bayram
+25 alpaslan kavaklioglu
+25 erdogan ozegen
+26 omer fethi gurer
+26 alpaslan kavaklioglu
+26 erdogan ozegen
+27 yavuz ergun
+27 selim gultekin
+27 omer fethi gurer

@@ -1,0 +1,131 @@
+1 seyh masum efendi
+1 tevfik demiroglu
+1 emin girdivan
+1 hasan siddik haydari
+1 kamil mendanli
+1 hakki ungan
+1 haydar vaner
+2 ibrahim arvas
+2 munip boya
+2 hakki ungan
+3 munip boya
+3 hakki ungan
+4 munip boya
+4 hakki ungan
+5 ibrahim arvas
+5 munip boya
+5 hakki ungan
+6 ibrahim arvas
+6 munip boya
+6 hakki ungan
+7 ibrahim arvas
+7 yusuf nihad berker
+7 munip boya
+7 hakki ungan
+8 ibrahim arvas
+8 muzaffer kocak
+8 rustu camuscuoktar
+9 izzet akin
+9 ferit melen
+9 kazim ozalp
+10 hilmi durmaz
+10 muslih gorentas
+10 hamit kartal
+10 kemal yorukoglu
+11 abdulvahap altinkaynak
+11 abdulhakim arvas
+11 tevfik doguisiker
+11 mehmet sait erdinc
+11 ferit melen
+12 ihsan bedirhanoglu
+12 muslih gorentas
+12 mustafa sukru kosereisoglu
+13 mehmet emin erdinc
+13 muslih gorentas
+13 kinyas kartal
+13 mehmet salih yildiz
+14 mehmet emin erdinc
+14 kinyas kartal
+14 fuat turkoglu
+14 mehmet salih yildiz
+15 ihsan bedirhanoglu
+15 muslih gorentas
+15 kinyas kartal
+15 mehmet salih yildiz
+16 ihsan bedirhanoglu
+16 muslih gorentas
+16 kinyas kartal
+16 mehmet salih yildiz
+17 huseyin aydin arvasi
+17 fevzi necdet erdinc
+17 mirza kursunluoglu
+17 ferit melen
+18 huseyin aydin arvasi
+18 ihsan bedirhanoglu
+18 muslih gorentas
+18 selahattin mumcuoglu
+18 resit celik
+19 serif bedirhanoglu
+19 fethullah erbas
+19 nadir kartal
+19 remzi kartal
+19 mustafa kacmaz
+20 maliki ejder arvas
+20 mustafa bayram
+20 serif bedirhanoglu
+20 fethullah erbas
+20 mahmut yilbas
+20 saban sevli
+21 maliki ejder arvas
+21 mustafa bayram
+21 fethullah erbas
+21 fetullah gultepe
+21 huseyin celik
+21 ayhan cevik
+21 kamran inan
+22 maliki ejder arvas
+22 haci biner
+22 yekta haydaroglu
+22 cuneyit karabiyik
+22 mehmet kartal
+22 halil kaya
+22 huseyin celik
+23 kerem altun
+23 ikram dincer
+23 fatma kurtulan
+23 gulsen orhan
+23 kayhan turkmenoglu
+23 huseyin celik
+23 ozdal ucer
+24 kemal aktas
+24 mustafa bilici
+24 nazmi gur
+24 burhan kayaturk
+24 gulsen orhan
+24 aysel tugluk
+24 fatih ciftci
+24 ozdal ucer
+25 lezgin botan
+25 adem geveri
+25 tugba hezer ozturk
+25 burhan kayaturk
+25 figen yuksekdag senoglu
+25 remzi ozgokce
+25 yurdusev ozsokmenler
+25 selami ozyasar
+26 besir atalay
+26 lezgin botan
+26 adem geveri
+26 tugba hezer ozturk
+26 burhan kayaturk
+26 nadir yildirim
+26 figen yuksekdag senoglu
+26 bedia ozgokce ertan
+27 abdulahat arvas
+27 osman nuri gulacar
+27 irfan kartal
+27 muazzez orhan isik
+27 murat sarisac
+27 tayip temel
+27 sezai temelli
+27 bedia ozgokce ertan

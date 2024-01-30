@@ -1,0 +1,77 @@
+3 takyettin fikret onuralp
+3 ibrahim colak
+3 rasim celaleddin oztekin
+3 suleyman asaf ilbay
+4 salih bozok
+4 hayrettin karan
+4 ibrahim colak
+5 besim omer akalin
+5 salih bozok
+5 ibrahim colak
+6 besim omer akalin
+6 salih bozok
+6 mustafa memduh esendal
+6 kasim gulek
+6 muhlis suner
+7 ahmet sukru esen
+7 mustafa memduh esendal
+7 kasim gulek
+7 kemal sun
+7 muhlis suner
+8 resit bozuyuk
+8 mustafa memduh esendal
+8 muhlis suner
+9 ismail askin
+9 kessaf mehmet kurkut
+9 talat oran
+9 yumnu uresin
+10 mehmet sevki hasirci
+10 talat oran
+10 ismail selcuk cakiroglu
+10 yumnu uresin
+11 mehmet erdem
+11 mehmet sevki hasirci
+11 ertugrul colak
+11 yumnu uresin
+12 sadi binay
+12 mehmet orhan tugrul
+13 sadi binay
+13 ismail selcuk cakiroglu
+14 sadi binay
+14 mehmet ergul
+15 muzaffer erdem
+15 mehmet ergul
+16 cemalettin koklu
+16 orhan yagci
+17 yilmaz demir
+17 recep kaya
+18 mehmet seven
+18 tayfur un
+19 mehmet seven
+19 bahattin seker
+20 serif cim
+20 bahattin seker
+21 huseyin arabaci
+21 sebahat vardar
+22 fahrettin poyraz
+22 yasar tuzun
+23 fahrettin poyraz
+23 yasar tuzun
+24 fahrettin poyraz
+24 bahattin seker
+25 halil eldemir
+25 yasar tuzun
+26 halil eldemir
+26 yasar tuzun
+27 yasar tuzun
+27 selim yagci
+1 ahmet hamdi aksoy
+1 mustafa kemal guney
+1 halil ibrahim isik
+1 ahmet lakse
+1 necip soydan
+2 halil ibrahim isik
+2 ahmet iffet mercimekoglu
+2 takyettin fikret onuralp
+2 ibrahim colak
+2 rasim celaleddin oztekin

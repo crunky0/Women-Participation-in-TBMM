@@ -1,0 +1,88 @@
+2 hilmi gur
+3 mehmet ali okar
+3 asim us
+4 mehmet ali okar
+4 asim us
+11 mehmet kemal balta
+11 mecit bumin
+11 eyup dogan
+11 huseyin yasar gumusel
+11 hilmi celtikcioglu
+12 nihat ata
+12 sabit osman avci
+12 saffet eminagaoglu
+13 turgut altinkaya
+13 sabit osman avci
+13 mustafa rona
+14 sabit osman avci
+14 abdullah naci budak
+14 mustafa rona
+15 turgut altinkaya
+15 sabit osman avci
+15 ekrem sadi erdem
+16 mehmet balta
+16 hasan ekinci
+16 mustafa rona
+17 nevzat biyikli
+17 ahmet dogru
+17 huseyin sen
+18 ayhan arifagaoglu
+18 hasan ekinci
+18 bahattin caloglu
+19 hasan ekinci
+19 suleyman hatinoglu
+20 metin arifagaoglu
+20 hasan ekinci
+20 suleyman hatinoglu
+21 ergun bayrak
+21 hasan ekinci
+22 orhan yildiz
+22 yuksel corbacioglu
+23 metin arifagaoglu
+23 ertekin colak
+24 ugur bayraktutan
+24 israfil kisla
+25 ugur bayraktutan
+25 israfil kisla
+26 ugur bayraktutan
+26 israfil kisla
+27 ertunc erkan balta
+27 ugur bayraktutan
+1 ahmet nureddin ef.
+1 ali riza acara
+1 mehmed edib dinc
+1 ahmet fevzi erdem
+1 ahmet akif suner
+5 akif akyuz
+5 hasan cavit belul
+5 ahmet fuat bulca
+5 mehmet ihsan kurtkan
+5 ilyas sami mus
+5 omer fehmi noylan
+5 mehmet ali okar
+5 mehmet atif tuzun
+5 asim us
+5 ali riza zirh
+6 ali riza erem
+6 mazhar mufid kansu
+6 mehmet atif tuzun
+6 asim us
+7 ali riza erem
+7 mazhar mufid kansu
+7 mehmet atif tuzun
+7 asim us
+8 ali riza erem
+8 mehmet cemal kazancioglu
+8 mehmet atif tuzun
+8 asim us
+8 ali coruh
+9 mecit bumin
+9 mesut guney
+9 abbas gigin
+9 zihni oral
+9 ali riza saglar
+10 mecit bumin
+10 huseyin yasar gumusel
+10 zihni oral
+10 hilmi celtikcioglu
+10 muzaffer onal

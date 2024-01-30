@@ -1,0 +1,169 @@
+1 ali riza ataman
+1 mehmet cavit erdel
+1 fahrettin erdogan
+2 ahmet akif agaoglu
+2 omer bey tarim
+3 ahmet akif agaoglu
+3 faik bermek
+3 haci bedir firat
+3 ahmet sadri hattuza
+3 halid onaran
+3 mehmet bahaettin ongoren
+4 muhittin akyuz
+4 faik bermek
+4 omer kamil kuntay
+4 mehmet nazif sirel
+4 mehmet bahaettin ongoren
+5 muhittin akyuz
+5 yusuf akcora
+5 husrev sami kizildogan
+5 mehmet fuat koprulu
+5 omer kamil kuntay
+5 mehmet nazif sirel
+5 mehmet bahaettin ongoren
+5 esat ozoguz
+6 muhittin akyuz
+6 kahraman arikli
+6 etem izzet benice
+6 mehmet cevat dursunoglu
+6 serafettin karacan
+6 husrev sami kizildogan
+6 mehmet fuat koprulu
+6 omer kamil kuntay
+6 zihni orhon
+6 esat ozoguz
+7 esref demirel
+7 mehmet cevat dursunoglu
+7 hasan durudogan
+7 serafettin karacan
+7 mehmet fuat koprulu
+7 esat oktay
+7 zihni orhon
+7 esat ozoguz
+8 fevzi aktas
+8 alay abdurrahman azizagaoglu
+8 mehmet rustem bahadir
+8 ali akif eyidogan
+8 serafettin karacan
+8 esat oktay
+8 zihni orhon
+8 tezer taskiran
+8 ahmet husamettin tugac
+8 aziz samih ilter
+9 fevzi aktas
+9 latif akuzum
+9 sirri atalay
+9 mehmet rustem bahadir
+9 veyis koculu
+9 esat oktay
+9 tezer taskiran
+9 ahmet husamettin tugac
+9 huseyin cahit yalcin
+9 abbas ali cetin
+10 fevzi aktas
+10 sirri atalay
+10 hasan erdogan
+10 turgut gole
+10 mustafa kemal guven
+10 mehmet hazer
+10 ibrahim us
+10 riza yalcin
+10 ali yeniaras
+10 remzi cakir
+11 fevzi aktas
+11 sirri atalay
+11 semsettin ataman
+11 hasan erdogan
+11 turgut gole
+11 mustafa kemal guven
+11 mehmet hazer
+11 ibrahim us
+11 osman yeltekin
+11 ali yeniaras
+11 behram ocal
+11 ahmet rasim ilker
+12 necmeddin akan
+12 latif akuzum
+12 hasan erdogan
+12 mustafa kemal guven
+12 mustafa kemal kaya
+12 kemal okyay
+12 bahtiyar vural
+12 riza yalcin
+12 ali sirri oktem
+13 latif akuzum
+13 fatma sevinc dusunsel
+13 ali cengiz ekinci
+13 turgut gole
+13 celal nuri koc
+13 adil kurtel
+13 osman yeltekin
+13 abbas ali cetin
+13 muzaffer samiloglu
+14 latif akuzum
+14 ismail hakki alaca
+14 turgut artac
+14 musa dogan
+14 mustafa kemal guven
+14 mustafa kemal kaya
+14 veyis koculu
+14 kemal okyay
+14 osman yeltekin
+15 davut aksu
+15 dogan arasli
+15 yasin bozkurt
+15 abdulkerim dogru
+15 mustafa kemal guven
+15 kemal okyay
+15 hasan yildirim
+15 cemil unal
+16 dogan arasli
+16 turgut artac
+16 ismet atalay
+16 bahri dagdas
+16 abdulkerim dogru
+16 mustafa kemal guven
+16 hasan yildirim
+16 hidayet celebi
+17 ilhan akuzum
+17 sabri aras
+17 aziz kaygisiz
+17 omer kushan
+17 halis soylu
+17 musa ogun
+18 ilhan akuzum
+18 vedat altun
+18 mahmut alinak
+18 sabri aras
+18 yasin bozkurt
+18 kerem gunes
+19 mehmet alp
+19 abdulkerim dogru
+19 mehmet sabri guner
+19 atila hun
+19 zeki nacitarhan
+20 yusuf selahattin beyribey
+20 cetin bilgir
+20 mehmet sabri guner
+20 zeki karabayir
+21 ilhan akuzum
+21 arslan aydar
+21 cetin bilgir
+22 yusuf selahattin beyribey
+22 zeki karabayir
+22 selami yigit
+23 gurcan dagdas
+23 mahmut esat guven
+23 zeki karabayir
+24 ahmet arslan
+24 mulkiye birtane
+24 yunus kilic
+25 ayhan bilgen
+25 safak erkmen ozanli
+25 mehmet ucum
+26 ahmet arslan
+26 yusuf selahattin beyribey
+26 ayhan bilgen
+27 ahmet arslan
+27 ayhan bilgen
+27 yunus kilic
